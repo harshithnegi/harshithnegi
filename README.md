@@ -15,15 +15,15 @@
 ###
 
 <div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MrHart.png" alt="Your Image Badge" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<h1 align="left">🧠 TryHackMe Stats</h1>
-
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/harshithnegi.png" height="120"/>
+  <a href="https://tryhackme.com/p/MrHart">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrHart.png" alt="TryHackMe Badge">
+  </a>
 </p>
 
 ###
