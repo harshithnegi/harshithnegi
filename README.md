@@ -140,7 +140,7 @@
 
 ###
 
-<h2 align="left">🏆 Certifications</h2>
+<h1 align="left">🏆 Certifications</h1>
 
 <table align="center" cellpadding="15">
 <tr>
