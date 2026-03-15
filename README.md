@@ -146,7 +146,7 @@
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/Networking%20basics.png" width="250"><br>
-<b>Certificate 1</b>
+
 </td>
 
 <td align="center">
