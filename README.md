@@ -146,34 +146,28 @@
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/Networking%20basics.png" width="250"><br>
-
 </td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/SQL%20attack%20certificate.png" width="250"><br>
-<b>Certificate 2</b>
 </td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/intro%20to%20cybersecurity.png" width="250"><br>
-<b>Certificate 3</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/internshala.png" width="250"><br>
-<b>Certificate 4</b>
 </td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/smartEd.png" width="250"><br>
-<b>Certificate 5</b>
 </td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/pre%20security%20THM.png" width="250"><br>
-<b>Certificate 6</b>
 </td>
 </tr>
 </table>
