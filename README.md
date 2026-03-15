@@ -1,4 +1,4 @@
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left">💫 About Me :</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h1 align="left">💻 Tech Stack :</h1>
 
 ###
 
@@ -137,5 +137,45 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+
+<h1 align="left">🏅Certificates :</h1>
+
+###
+
+<br clear="both">
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
