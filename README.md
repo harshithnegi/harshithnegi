@@ -145,7 +145,7 @@
 <table align="center" cellpadding="15">
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/Networking%20basics.png" width="250"><br>
+<img src="Certificates/Networking basics.png" width="250"><br>
 <b>Certificate 1</b>
 </td>
 
@@ -155,24 +155,24 @@
 </td>
 
 <td align="center">
-<img src="IMAGE_LINK_3" width="250"><br>
+<img src="Certificates/intro to cybersecurity.png" width="250"><br>
 <b>Certificate 3</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="IMAGE_LINK_4" width="250"><br>
+<img src="Certificates/internshala.png" width="250"><br>
 <b>Certificate 4</b>
 </td>
 
 <td align="center">
-<img src="IMAGE_LINK_5" width="250"><br>
+<img src="Certificates/pre security THM.png" width="250"><br>
 <b>Certificate 5</b>
 </td>
 
 <td align="center">
-<img src="IMAGE_LINK_6" width="250"><br>
+<img src="Certificates/pre security THM.png" width="250"><br>
 <b>Certificate 6</b>
 </td>
 </tr>
