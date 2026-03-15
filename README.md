@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 I’m currently working on: 💻 THM rooms and CTF challenges, detailed penetration testing write-ups<br>🌱 I’m currently learning: 📚 Web Application Security, Privilege Escalation<br>💬 Ask me about: 💡 Ethical Hacking, Basic Web Security, Pentesting<br>⚡ Fun fact: 🎢I enjoy breaking vulnerable machines just to understand how to secure them better.</p>
+<p align="left">💼 I’m currently working on: 💻 THM rooms and CTF challenges, penetration testing write-ups<br>🌱 I’m currently learning: 📚 Web Application Security, Privilege Escalation<br>💬 Ask me about: 💡 Ethical Hacking, Basic Web Security, Pentesting<br>⚡ Fun fact: 🎢I enjoy breaking vulnerable machines just to understand how to secure them better.</p>
 
 ###
 
@@ -120,5 +120,29 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshithnegi/harshithnegi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshithnegi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithnegi&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="100" alt="activity-graph graph"  />
+</div>
 
 ###
