@@ -25,73 +25,73 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/labview/FFDB00" height="40" alt="labview logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opera/FF1B2D" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="50" alt="anaconda logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="50" alt="apache logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="50" alt="apachecassandra logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="50" alt="chrome logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="50" alt="css logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="50" alt="debian logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="discord logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="facebook logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="50" alt="firefox logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="50" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="50" alt="gitlab logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="50" alt="google logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="50" alt="googlecloud logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="50" alt="jupyter logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/labview/FFDB00" height="50" alt="labview logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/opera/FF1B2D" height="50" alt="opera logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="50" alt="replit logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="wordpress logo"  />
 </div>
 
 ###
@@ -103,8 +103,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshithnegi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithnegi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=harshithnegi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -130,7 +129,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshithnegi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithnegi&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -142,7 +141,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithnegi&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=harshithnegi&theme=dracula&column=0&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
