@@ -1,8 +1,10 @@
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjeDN3b2hsY3h5ZnY4YXUybG5ma2tjc3R3eDE5dHg2d3A2dnEzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  />
+<h1 align="left">💫 About Me:</h1>
 
 ###
 
-<h1 align="left">💫 About Me:</h1>
+<br clear="both">
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjeDN3b2hsY3h5ZnY4YXUybG5ma2tjc3R3eDE5dHg2d3A2dnEzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  />
 
 ###
 
@@ -10,11 +12,19 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
 <p align="left">💼 I’m currently working on: 💻 THM rooms and CTF challenges, detailed penetration testing write-ups<br>🌱 I’m currently learning: 📚 Web Application Security, Privilege Escalation<br>💬 Ask me about: 💡 Ethical Hacking, Basic Web Security, Pentesting<br>⚡ Fun fact: 🎢I enjoy breaking vulnerable machines just to understand how to secure them better.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
@@ -94,9 +104,21 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshithnegi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithnegi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
