@@ -134,9 +134,43 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h2 align="center">🏆 Certifications</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="IMAGE_LINK_1" width="250"><br>
+<b>Certificate 1</b>
+</td>
+
+<td align="center">
+<img src="IMAGE_LINK_2" width="250"><br>
+<b>Certificate 2</b>
+</td>
+
+<td align="center">
+<img src="IMAGE_LINK_3" width="250"><br>
+<b>Certificate 3</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="IMAGE_LINK_4" width="250"><br>
+<b>Certificate 4</b>
+</td>
+
+<td align="center">
+<img src="IMAGE_LINK_5" width="250"><br>
+<b>Certificate 5</b>
+</td>
+
+<td align="center">
+<img src="IMAGE_LINK_6" width="250"><br>
+<b>Certificate 6</b>
+</td>
+</tr>
+</table>
 
 ###
 
