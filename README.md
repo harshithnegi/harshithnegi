@@ -20,7 +20,11 @@
 
 ###
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1572329" style='border:none;'></iframe>
+<h1 align="left">🧠 TryHackMe Stats</h1>
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/harshithnegi.png" height="120"/>
+</p>
 
 ###
 
