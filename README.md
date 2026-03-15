@@ -20,6 +20,46 @@
 
 ###
 
+<h1 align="left">🏆 Certifications</h1>
+
+<table align="center" cellpadding="15">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/Networking%20basics.png" width="250"><br>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/SQL%20attack%20certificate.png" width="250"><br>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/intro%20to%20cybersecurity.png" width="250"><br>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/internshala.png" width="250"><br>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/smartEd.png" width="250"><br>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/pre%20security%20THM.png" width="250"><br>
+</td>
+</tr>
+</table>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h1 align="left">💻 Tech Stack :</h1>
 
 ###
@@ -140,34 +180,4 @@
 
 ###
 
-<h1 align="left">🏆 Certifications</h1>
 
-<table align="center" cellpadding="15">
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/Networking%20basics.png" width="250"><br>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/SQL%20attack%20certificate.png" width="250"><br>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/intro%20to%20cybersecurity.png" width="250"><br>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/internshala.png" width="250"><br>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/smartEd.png" width="250"><br>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/pre%20security%20THM.png" width="250"><br>
-</td>
-</tr>
-</table>
