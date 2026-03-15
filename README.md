@@ -145,12 +145,12 @@
 <table align="center" cellpadding="15">
 <tr>
 <td align="center">
-<img src="IMAGE_LINK_1" width="250"><br>
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/Networking%20basics.png" width="250"><br>
 <b>Certificate 1</b>
 </td>
 
 <td align="center">
-<img src="IMAGE_LINK_2" width="250"><br>
+<img src="Certificates/SQL attack certificate.png" width="250"><br>
 <b>Certificate 2</b>
 </td>
 
