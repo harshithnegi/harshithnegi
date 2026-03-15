@@ -20,6 +20,16 @@
 
 ###
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1572329" style='border:none;'></iframe>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h1 align="left">🏆 Certifications</h1>
 
 <table align="center" cellpadding="15">
