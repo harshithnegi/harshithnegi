@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="left">🏆 Certifications</h1>
+<h1 align="left">🏆 Certifications : </h1>
 
 <table align="center" cellpadding="15">
 <tr>
