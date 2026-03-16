@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/MrHart">
-    <img style="100%" src="https://tryhackme-badges.s3.amazonaws.com/MrHart.png" alt="TryHackMe Badge">
+    <img style="200%" src="https://tryhackme-badges.s3.amazonaws.com/MrHart.png" alt="TryHackMe Badge">
   </a>
 </p>
 
