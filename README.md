@@ -59,6 +59,13 @@
 </tr>
 </table>
 
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/internshala.png" width="250"><br>
+</td>
+  
+</tr>
+
 ###
 
 <div>
