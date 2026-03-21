@@ -60,7 +60,7 @@
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/internshala.png" width="250"><br>
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/OSINT.png" width="250"><br>
 </td>
 
 <td align="center">
