@@ -57,14 +57,22 @@
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/pre%20security%20THM.png" width="250"><br>
 </td>
 </tr>
-</table>
 
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/internshala.png" width="250"><br>
 </td>
-  
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/smartEd.png" width="250"><br>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/pre%20security%20THM.png" width="250"><br>
+</td>
 </tr>
+
+</table>
 
 ###
 
