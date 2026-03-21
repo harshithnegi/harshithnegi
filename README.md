@@ -64,7 +64,7 @@
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/smartEd.png" width="250"><br>
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/refs/heads/main/Certificates/udemyEH.jpg" width="250"><br>
 </td>
 
 <td align="center">
