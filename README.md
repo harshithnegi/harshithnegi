@@ -72,7 +72,7 @@
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/main/Certificates/pre%20security%20THM.png" width="250"><br>
+<img src="https://raw.githubusercontent.com/harshithnegi/harshithnegi/refs/heads/main/Certificates/windows-pentesting.png" width="250"><br>
 </td>
 </tr>
 
